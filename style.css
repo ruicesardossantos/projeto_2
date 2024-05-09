@@ -1,0 +1,144 @@
+.body{
+    
+    margin: 2%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.icons{
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    border-style: ridge;
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color: white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color:black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color: white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.div6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color:white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color:white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.div9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;    
+
+    
+}
+
+.div10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: ridge;
+    background-color:white;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+    padding: 15px;
+    
+}
